@@ -27,6 +27,20 @@ This is test on readme
  <h3 align="left">
 🔸Java
  </h3>
+ 
+ 
+ <h3 align="left">
+ Skill➡️
+ </h3>
+ <h3 align="left">
+🔸Android
+ </h3>
+ <h3 align="left">
+🔸Flutter
+ </h3>
+ <h3 align="left">
+🔸MS Office
+ </h3>
 <p align="left">
 </p>
 
