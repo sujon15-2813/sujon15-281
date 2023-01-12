@@ -17,21 +17,14 @@ This is test on readme
 
 <h3 align="left">
  Programming Language➡️
-
- </h4>
- <h1 align="left">
- 
-🔸C
-
- </h4>
+ </h3>
  <h3 align="left">
-
-
+🔸C
+ </h3>
+ <h3 align="left">
 🔸Dart
  </h3>
  <h3 align="left">
-
-
 🔸Java
  </h3>
 <p align="left">
