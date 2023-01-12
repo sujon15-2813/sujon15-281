@@ -13,6 +13,9 @@ This is test on readme
 - 📫 How to reach me **sujon15-2813@diu.edu.bd**
 
 - ⚡ Fun fact **I think I am funny😂**
+ Programming Language➡️
+🔸C
+🔸Dart
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
