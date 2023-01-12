@@ -13,18 +13,16 @@ This is test on readme
 - 📫 How to reach me **sujon15-2813@diu.edu.bd**
 
 - ⚡ Fun fact **I think I am funny😂**
- Programming Language➡️
-🔸C
-🔸Dart
+ 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-Programming Language➡️
+<h3 align="left">Programming Language➡️
 🔸C
 🔸C++
 🔸Java
-🔸Dart
+🔸Dart:</h3>
+<p align="left">
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
