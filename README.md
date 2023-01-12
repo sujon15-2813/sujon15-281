@@ -19,11 +19,11 @@ This is test on readme
  Programming Language➡️
 
  </h3>
- <h3 align="left">
+ <h1 align="left">
  
 🔸C
 
- </h3>
+ </h1>
  <h3 align="left">
 
 
