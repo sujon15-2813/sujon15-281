@@ -27,6 +27,8 @@ This is test on readme
  <h3 align="left">
 🔸Java
  </h3>
+🔸C++
+ </h3>
  
  
  <h3 align="left">
